@@ -1,8 +1,2 @@
-env/
-venv/
-.venv/
-__pycache__/
-*.pyc
-.vscode/
-.ipynb_checkpoints/
-results/plots/
+venv/ 
+*.ipynb_checkpoints/ 
